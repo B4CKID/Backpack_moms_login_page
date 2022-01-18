@@ -1,0 +1,146 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: poppins;
+  box-sizing: border-box;
+  
+}
+.red {
+    display: block;
+    background-image: url(https://images.unsplash.com/photo-1639234489690-a9c87c2d32a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80);
+    background-repeat: no-repeat;
+    margin-left: auto;
+    background-size: 100%;
+    /* background-color: #fed9b7; */
+}
+
+footer {
+    display: block;
+    background-color: #3166ac;
+    height: 70px;
+    width: 100%;
+    /* position: fixed; */
+    bottom: 0;
+    padding: 10px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+
+
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */
+  border: 1px solid; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 10px; /* Add a top margin */
+  margin-bottom: 10px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+  border-radius: 5px;
+  padding: 8px;
+  opacity: 5;
+  min-height: 100%;
+}
+#pop{
+    padding: 100px;
+    margin-bottom: 100px;
+
+}
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: poppins;
+}
+
+ h1{
+  text-align: center;
+  padding: 40px;
+  
+}
+.logo{
+  border-radius: 40%;
+  position: fixed;
+  margin-top: 50px;
+  
+}
+p{
+  inline-size: 700px;
+  overflow-wrap: break-word;
+  color: #393f3ca4;
+  text-align: justify;
+}
+#right{
+  float: right;
+  text-align: right;
+  padding: 50px;  
+}
+#left{
+  float: left;
+  text-align: left;
+  display: flex;
+}
+/* #right2{
+  float: right;
+  text-align: right;
+  display: flex;
+} */
+
+.r1{
+  text-align: left;
+}
+    /* homepage footer */
+#only{
+    display: block;
+    background-color: #8e9aaf;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    padding: 10px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+.contactus{
+  inline-size: 700px;
+  overflow-wrap: break-word;
+  color: #393f3ca4;
+  text-align: justify;
+  margin-left: 50px;
+}
+
+button{
+  position: fixed;
+}
+
+#email{
+  padding: 10px;
+  margin-top: 60px;
+  margin-left: 150px;
+  
+}
+#b2{
+  margin-left: 140px;
+  margin-top: 10px;
+}

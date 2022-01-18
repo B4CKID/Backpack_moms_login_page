@@ -1,0 +1,42 @@
+  /* Styling to make blog look like main page */
+  footer {
+    display: block;
+    background-color: #8e9aaf;
+    height: 70px;
+    width: 100%;
+    /* position: fixed; */
+    bottom: 0;
+    padding: 10px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+body{
+  background-image: url(https://images.unsplash.com/photo-1639234489690-a9c87c2d32a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80);
+  background-size: 100%;
+}
+
+button{
+  position: fixed;
+  margin-left: 150px;
+  display: inline;
+
+}
+.email{
+  margin-top: 10px;
+  margin-left: 1px; 
+}
+
+.logo{
+  border-radius: 40%;
+  position: fixed;
+  display: inline;
+}
+#b2{
+  margin-top: 50px;
+  margin-right: 30px;
+  display: inline;
+}
+#b1{
+  margin-bottom: 20px;
+  margin-left: 130px;
+}
