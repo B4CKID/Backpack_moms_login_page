@@ -14,19 +14,6 @@
     /* background-color: #fed9b7; */
 }
 
-footer {
-    display: block;
-    background-color: #3166ac;
-    height: 70px;
-    width: 100%;
-    /* position: fixed; */
-    bottom: 0;
-    padding: 10px;
-    margin-bottom: 1px;
-    margin-top: 1px;
-}
-
-
 
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
@@ -77,6 +64,8 @@ body{
  h1{
   text-align: center;
   padding: 40px;
+  font-family: poppins;
+  
   
 }
 .logo{
@@ -88,8 +77,10 @@ body{
 p{
   inline-size: 700px;
   overflow-wrap: break-word;
-  color: #393f3ca4;
+  color: #c7436fe8;
   text-align: justify;
+  /* background-color: black; */
+  font-size: 18px;
 }
 #right{
   float: right;
